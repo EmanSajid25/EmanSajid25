@@ -171,6 +171,13 @@ An application for tracking and managing order statuses through a structured sof
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/github-stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</p>
+
 
 ## 🎯 Currently Exploring
 
