@@ -173,9 +173,11 @@ An application for tracking and managing order statuses through a structured sof
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanSajid25&show_icons=true&theme=default&hide_border=true&border_radius=12" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanSajid25&layout=compact&theme=default&hide_border=true&border_radius=12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmanSajid25&show_icons=true&title_color=6C63FF&icon_color=6C63FF&text_color=555555&bg_color=F8F9FF&hide_border=true&border_radius=15" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanSajid25&layout=compact&title_color=6C63FF&text_color=555555&bg_color=F8F9FF&hide_border=true&border_radius=15" height="180" />
 </p>
+
 
 ## 🎯 Currently Exploring
 
